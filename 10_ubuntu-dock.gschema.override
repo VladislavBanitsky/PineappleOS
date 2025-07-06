@@ -1,0 +1,17 @@
+[org.gnome.shell.extensions.dash-to-dock:ubuntu]
+disable-overview-on-startup=true
+show-mounts-only-mounted=true
+show-mounts-network=false
+dock-position='BOTTOM'
+dock-fixed=true
+intellihide-mode='ALL_WINDOWS'
+intellihide=true
+icon-size-fixed=true
+custom-theme-shrink=true
+running-indicator-style='DOTS'
+extend-height=false
+scroll-action='switch-workspace'
+click-action='minimize'
+shift-click-action='launch'
+middle-click-action='launch'
+shift-middle-click-action='minimize'
