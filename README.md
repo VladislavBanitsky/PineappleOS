@@ -28,10 +28,24 @@ While remaining in the same directory, drag and drop the ```10_ubuntu-settings.g
 ```bash
 cd /usr/share/gnome-background-properties
 ```
-Drag and drop ```noble-wallpapers.xml``` and click Copy
+Drag and drop ```noble-wallpapers.xml``` and click Copy.
 ```bash
 cd /usr/share/backgrounds
 ```
 Drag and drop ```summer-beach-dark.jpg``` and ```summer-beach-light.jpg``` and click Copy.
-### 8. Installing Logo icons
-
+### 8. Installing logos
+```bash
+cd /usr/share/plymouth
+```
+Drag and drop ```ubuntu-logo.png``` and click Copy.
+```bash
+cd themes/spinner
+```
+Drag and drop ```watermark.png``` and ```bgrt-fallback.png``` and click Copy.
+```bash
+cd /usr/share/icons/Yaru/scalable/places
+```
+Drag and drop ```start-here-symbolic.svg``` and click Copy.
+### 8. Click Next, then waiting, then on tab Boot change name OS to PineappleOS in ```loopback.cfg``` and ```grub.cfg```.
+### 9. Click Next, then waiting while ISO image will be generated in directory, which you created on the 5 step.
+### 10. Create a bootable USB flash drive, install the system with installing all updates and enjoy :)
