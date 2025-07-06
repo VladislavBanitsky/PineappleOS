@@ -4,9 +4,16 @@
 
 PineappleOS - is an operating system based on Ubuntu, which combines all the best features of modern systems for better performance and ease of use.
 
-[Download PineappleOS]()
+## Light Theme
+![Screenshot](screenshot_light.png) 
 
-## How to build
+## Dark Theme
+![Screenshot](screenshot_dark.png)
+
+## Download ISO
+[Download PineappleOS](https://drive.google.com/file/d/1wX93hhb2LSHxVCGRBlaAGAg0c4Nj7NVG/view?usp=sharing)
+
+## How to create ISO
 ### 1. Install Cubic
 ```bash
 sudo apt-add-repository universe
