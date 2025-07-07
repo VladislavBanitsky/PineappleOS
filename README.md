@@ -61,7 +61,7 @@ cd /usr/share/icons/Yaru/scalable/places
 ```
 Drag and drop ```start-here-symbolic.svg``` and click Copy.
 
-### 9. Installing icons theme
+### 9. Installing [icons theme](https://github.com/vinceliuice/Colloid-icon-theme)
 ```bash
 cd
 ```
