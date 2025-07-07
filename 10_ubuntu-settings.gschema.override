@@ -56,9 +56,9 @@ first-run=false
 # for GDM/DM
 # FIXME: move to :Ubuntu-Greeter once upstream supports this, see LP: #1788010
 [org.gnome.desktop.interface:GNOME-Greeter]
-gtk-theme = "Yaru"
-icon-theme = "Yaru"
-cursor-theme = "Yaru"
+gtk-theme = "Colloid"
+icon-theme = "Colloid"
+cursor-theme = "Colloid"
 font-name = "Ubuntu Sans 11"
 monospace-font-name = "Ubuntu Sans Mono 13"
 font-antialiasing = 'rgba'
@@ -94,9 +94,9 @@ show-desktop-icons = true
 picture-uri = 'file:///usr/share/backgrounds/warty-final-ubuntu.png'
 
 [org.gnome.desktop.interface:ubuntu]
-gtk-theme = "Yaru"
-icon-theme = "Yaru"
-cursor-theme = "Yaru"
+gtk-theme = "Colloid"
+icon-theme = "Colloid"
+cursor-theme = "Colloid"
 font-name = "Ubuntu Sans 11"
 monospace-font-name = "Ubuntu Sans Mono 13"
 document-font-name = "Sans 11"
