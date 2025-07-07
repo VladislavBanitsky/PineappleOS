@@ -11,7 +11,7 @@ PineappleOS - is an operating system based on Ubuntu, which combines all the bes
 ![Screenshot](screenshot_dark.png)
 
 ## Download ISO
-[Download PineappleOS](https://drive.google.com/file/d/1wX93hhb2LSHxVCGRBlaAGAg0c4Nj7NVG/view?usp=sharing)
+[Download PineappleOS](https://drive.google.com/file/d/1vhXfDbbHK98WqOvkKnFbFuYJXyHE96kx/view?usp=sharing)
 
 ## How to create ISO
 ### 1. Install Cubic
