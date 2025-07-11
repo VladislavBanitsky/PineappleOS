@@ -77,7 +77,7 @@ rm -R Colloid-icon-theme-main
 Click Next, then waiting, then on tab Boot change name OS to PineappleOS in ```loopback.cfg``` and ```grub.cfg```.
 
 ### 11. Generating ISO-file
-Click Next, then waiting while ISO image will be generated in directory, which you created on the 5 step.
+Click Next, click Generate, then waiting while ISO image will be generated in directory, which you created on the 5 step.
 
 ### 12. Installing PineappleOS 
 Create a bootable USB flash drive, install the system with installing all updates and enjoy :)
