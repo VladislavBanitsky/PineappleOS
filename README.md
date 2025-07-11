@@ -69,6 +69,7 @@ Unpack the ```Colloid-icon-theme-main.zip``` archive and drag and drop the unpac
 ```bash
 cd Colloid-icon-theme-main
 ./install.sh
+cd ..
 rm -R Colloid-icon-theme-main
 ```
 
